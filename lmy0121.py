@@ -7,9 +7,9 @@ import xlsxwriter
 
 ### 服务器
 SERVERS = {
-    '174': {'host': '192.168.90.174', 'user': 'mengyao.li', 'pwd': 'TEST1234', 
+    '174': {'host': '192.168.90.174', 'user': 'mengyao.li', 'pwd': 'test1234', 
             'path': '/home/mengyao.li/Code/ts_nr_simulation/test_and_sim/ulsim/'},
-    '175': {'host': '192.168.90.175', 'user': 'mengyao.li', 'pwd': 'TEST1234', 
+    '175': {'host': '192.168.90.175', 'user': 'mengyao.li', 'pwd': 'test1234', 
             'path': '/home/mengyao.li/Code/ts_nr_simulation/test_and_sim/ulsim/'}
 }
 
