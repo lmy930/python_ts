@@ -12,7 +12,7 @@
 # 修改小标题为原来的版式
 # version3.0
 
-# 在version 2.0 的基础上，封装为函数，方便直接生成不同的比较结果（sheet
+# 在version 3.0 的基础上，封装为函数，方便直接生成不同的比较结果（sheet
 # version 4.0
 
 import paramiko
